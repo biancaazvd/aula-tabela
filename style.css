@@ -1,0 +1,22 @@
+h2 {
+    font-size: 25px;
+}
+table {
+    font-size: 20px;
+    padding: 10px;
+}
+.cabecalho-moda {
+    background-color: #bb86fc;
+    color: #ffff;
+    
+}
+
+.infor {
+    background-color: #424250;
+    color: #ffff;
+}
+
+.cabecalho-casa {
+    background-color: #00c4b4;
+    color: #ffff;
+}
